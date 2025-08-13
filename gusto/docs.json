@@ -1,6 +1,6 @@
 {
     "theme": {
-        "name": "cosmo",
+        "name": "gusto",
         "logo": {
             "light": "/public/assets/logo.svg",
             "dark": "/public/assets/logo-dark.svg"
