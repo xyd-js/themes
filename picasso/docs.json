@@ -13,7 +13,7 @@
         }
     },
     "navigation": {
-        "header": [
+        "tabs": [
             {
                 "title": "Guides",
                 "href": "introduction"
