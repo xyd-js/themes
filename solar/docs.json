@@ -1,6 +1,6 @@
 {
     "theme": {
-        "name": "cosmo",
+        "name": "solar",
         "logo": {
             "light": "/public/assets/logo.svg",
             "dark": "/public/assets/logo-dark.svg"
@@ -16,6 +16,7 @@
         "tabs": [
             {
                 "title": "Guides",
+                "page": "",
                 "href": "introduction"
             },
             {
